@@ -1,0 +1,12 @@
+/venv/
+/EA
+/Utilities
+decompile_all.py
+decompile.py
+settings.py
+/MyScriptMods/compile.py
+/MyScriptMods/compiled
+/MyScriptMods/ExampleMod
+**/*.ts4script
+**/__init__.py
+.idea
